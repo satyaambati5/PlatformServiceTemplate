@@ -6,3 +6,12 @@ TestResults/
 *.user
 *.suo
 *.db
+*.log
+logs/
+artifacts/
+**/logs/
+**/bin/
+**/obj/
+coverage/
+*.coverage
+*.trx
